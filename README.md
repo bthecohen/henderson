@@ -5,7 +5,7 @@ It is written in Clojurescript, instead of in Scheme as in the book. It renders 
 
 ## Overview
 
-For more information on the original Picture Language, see [http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.4](Section 2.2.4 of SICP.)
+For more information on the original Picture Language, see [Section 2.2.4 of SICP.](http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-15.html#%_sec_2.2.4)
 
 For fun, I decided to implement this in Clojurescript, using HTML5 Canvas to render the output. Currently, it only renders pre-compiled figures that are defined by hand in the source files. However, I intend to eventually add a front-end GUI to let users interactively draw the figues and to define how they are composed, using the primitives of the picture language. I also plan to implement this interface in Clojurescript as well, probably using Om.
 
