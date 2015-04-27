@@ -9,7 +9,7 @@ For more information on the original Picture Language, see [http://mitpress.mit.
 
 For fun, I decided to implement this in Clojurescript, using HTML5 Canvas to render the output. Currently, it only renders pre-compiled figures that are defined by hand in the source files. However, I intend to eventually add a front-end GUI to let users interactively draw the figues and to define how they are composed, using the primitives of the picture language. I also plan to implement this interface in Clojurescript as well, probably using Om.
 
-For now, you can see two examples of its output [](here) and [](here.) The images are being rendered dynamically in JavaScript, so it may take a few moments for the pages to load.
+For now, you can see two examples of its output [http://bthecohen.github.io/henderson/example1.html](here) and [http://bthecohen.github.io/henderson/example2.html](here.) The images are being rendered dynamically in JavaScript, so it may take a few moments for the pages to load. In particular, the second image is signifantly more complex to draw.
 
 ## Setup
 
